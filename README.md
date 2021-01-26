@@ -38,7 +38,7 @@ celery -A periodicall beat -l debug --scheduler django_celery_beat.schedulers:Da
 celery -A periodicall worker -l DEBUG
 ```
 
-FYI: You have the possibility to run either the worker and the beat in one command, but I think for monitoring is more convenient to execute then separately
+FYI: You have the possibility to run the worker and the beat in one command, but I think for monitoring is more convenient to execute then separately
 
 ## Run a task periodically
 
