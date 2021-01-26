@@ -100,7 +100,7 @@ PeriodicTask.objects.create(
 In the terminals that's running the worker and the beat, you will see how the beat is listening for changes in the database and the worker receive the periodic task
 
 
-##Test your worker directly
+## Test your worker directly
 
 The next snippet is if you want to test if your worker works directly
 
