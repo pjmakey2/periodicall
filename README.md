@@ -1,4 +1,4 @@
-This is a test of the django-celery-beat packages
+This is a test of the django-celery-beat package
 
 You will need.
 
