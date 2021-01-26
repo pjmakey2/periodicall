@@ -48,7 +48,7 @@ FYI: You have the possibility to run either the worker and the beat in one comma
   python manage shell_plus
 ```
 
-### Paste this code and executed
+### Paste this code and execute it
 
 ```python
 
