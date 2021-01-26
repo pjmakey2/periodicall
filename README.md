@@ -6,14 +6,14 @@ You will need.
 
  3+
 
-#Python packages
+# Python packages
 
   - django
   - django-celery-beat
   - celery
   - django-extensions
 
-#Servers
+# Servers
 
   - Sqlite
   - Redis
